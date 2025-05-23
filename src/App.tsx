@@ -7,7 +7,7 @@ function App() {
 
   return (
 
-    <main className="min-h-screen bg-background">
+    <main className="min-h-screen w-screen bg-background">
       <Dashboard />
     </main>
 
